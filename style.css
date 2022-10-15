@@ -79,6 +79,8 @@ p {
 }
 
 .banner-imagem p {
+    margin-top: 18px;
+    max-width: 500px;
     font-size: 18px;
     font-weight: 500;
 }
